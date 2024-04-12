@@ -1,8 +1,8 @@
-# Full Name 
+# Full Name: Susmitha Vasudevan
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Hey! I am susmitha a passionate and driven individual dedicated to making impactful contributions in the world of technology and innovation. With a background in Web Development, App development etc, I thrive in dynamic environments where creativity and problem-solving skills are valued. My journey in the tech industry has been guided by a relentless pursuit of excellence and a commitment to continuous learning and growth.  
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Placement Cell App  | Provides a platform for user to interact with placemet officer                                              | [Hosted Link 1]([https://example.com](https://www.jotform.com/app/240810161420440))    | [Repo Link 1]([https://github.com/username/project1](https://www.jotform.com/app/240810161420440))             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2]( https://susmitha65.github.io/mysite/)    | [Repo Link 2]( https://susmitha65.github.io/mysite/            |
 
 #### Leadership and Influence:
 
